@@ -22,3 +22,10 @@ write a sentence in the code
 
 python stable_diffusion_huggingface.py
 ```
+
+## Examples
+
+a photo of an astronaut riding a horse on mars
+
+<img src="./img/astronaut_rides_horse.png" height="250">
+
