@@ -29,3 +29,6 @@ a photo of an astronaut riding a horse on mars
 
 <img src="./img/astronaut_rides_horse.png" height="250">
 
+a bear is playing guitar, oil on canvas
+
+<img src="./img/bear_playing_guitar.png" height="250">
